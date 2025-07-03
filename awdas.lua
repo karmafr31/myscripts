@@ -1,8 +1,8 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "Souls Hub | Made by RAT!_KarmA",
-   LoadingTitle = "Souls Hub",
+   Name = "Karma Hub | Made by RAT!_KarmA",
+   LoadingTitle = "all in one care package",
    LoadingSubtitle = "by KarmA",
    ConfigurationSaving = {Enabled = false},
    Discord = {Enabled = false},
